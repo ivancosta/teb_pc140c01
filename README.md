@@ -18,8 +18,7 @@ A TEB produz eletrocardiógrafos, imagino que seja a placa de captura e processa
 
 ![Placa TEB PC140C01](imagens/20260601_124710.jpg?raw=true)
 
-Mais imagens:
-![Placa TEB PC140C01](imagens)
+Mais imagens: Veja o diretório [imagens](imagens/) para mais fotos.
 
 ## Documentação
 
