@@ -4,7 +4,7 @@ Placa TEB PC140C01. Não encontrei referência alguma na internet sobre esta pla
 
 ## Descrição
 
-A TEB produz eletrocardiógrafos, imagino que seja a placa de captura e processamento dos sinais.
+A TEB produz eletrocardiógrafos, imagino que seja a placa de captura e processamento dos sinais, aqui no barramento ISA 16 bits.
 
 ## Componentes
 
@@ -18,6 +18,10 @@ A TEB produz eletrocardiógrafos, imagino que seja a placa de captura e processa
 
 ![Placa TEB PC140C01](imagens/20260601_124710.jpg?raw=true)
 
+Mais imagens:
+![Placa TEB PC140C01](imagens)
+
 ## Documentação
 
 Este repositório contém fotos e documentação da placa TEB PC140C01 para referência e estudo.
+Estou tentado a desmontá-la só para canibalizar os chips e soquetes.
