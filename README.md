@@ -14,6 +14,10 @@ A TEB produz eletrocardiógrafos, imagino que seja a placa de captura e processa
 - **Bus transceivers** - Controladores de barramento
 - **1 Conector DB9** - Interface de comunicação
 
+## Fotos
+
+![Placa TEB PC140C01](imagens/20260601_124710.jpg?raw=true)
+
 ## Documentação
 
 Este repositório contém fotos e documentação da placa TEB PC140C01 para referência e estudo.
